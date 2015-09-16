@@ -1,2 +1,2 @@
-# somention
-Starter theme for Somention
+# gulpfile
+Starting file for gulp
