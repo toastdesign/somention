@@ -42,13 +42,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	## Captions
 	## Galleries
 --------------------------------------------------------------*/
-body {
-  width: 47.36842%;
-  float: left;
-  margin-right: 5.26316%; }
-  @media (min-width: 500px) {
-    body {
-      background-color: blue; } }
+
 
 /*--------------------------------------------------------------
 # Normalize
