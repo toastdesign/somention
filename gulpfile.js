@@ -23,12 +23,6 @@ gulp.task('scripts', function(){
 });
 
 // Compile sass files
-/* ==========================================================================
-Add:
-@import "susy";
-@import "breakpoint";
-To style.scss
-========================================================================== */
 gulp.task('styles', function(){
 	gulp.src('sass/style.scss')
 		.pipe(plumber())
