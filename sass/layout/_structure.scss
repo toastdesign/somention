@@ -1,0 +1,126 @@
+/* ==========================================================================
+Site skeleton
+========================================================================== */
+.site {
+
+	.site-header {
+
+	}
+
+	.site-content {
+
+		.content-area {
+
+		}
+
+		.widget-area {
+
+		}
+	}
+
+	.site-footer {
+
+	}
+}
+
+/* ==========================================================================
+Header
+========================================================================== */
+.site-header {
+
+	.site-branding {
+		
+		// h1
+		.site-title {
+
+		}
+		
+		// h2
+		.site-description {
+
+		}
+	}
+
+	.main-navigation {
+		
+		// Button for mobile screens
+		.menu-toggle {
+
+		}
+		
+		.menu {
+			
+			// ul
+			.nav-menu {
+					
+				// li 
+				.page-item {
+
+				}
+			}
+		}
+	}
+}
+
+
+/* ==========================================================================
+#primay .content-area
+========================================================================== */
+.content-area {
+
+	.site-main {
+
+		article {
+			
+			// Title + post meta (date & author) 
+			.entry-header {
+
+			}
+			
+			// Content / excerpt + post navigation
+			.entry-content {
+
+			}
+			
+			// Post meta (categories, tags, edit link)
+			.entry-footer {
+
+			}
+		}
+
+		.navigation {
+
+			&.post-navigation {
+
+			}
+
+			&.posts-navigation {
+
+			}
+		}
+
+		.comments-area {
+
+		}
+	}
+}
+
+
+/* ==========================================================================
+#secondary .widget-area
+========================================================================== */
+.widget-area {
+
+	.widget {
+		
+		// h1
+		.widget-title {
+
+		}
+		
+		// #[widgettitle]
+		ul {
+
+		}
+	}
+}
